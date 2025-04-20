@@ -15,7 +15,7 @@ function setup() {
 }
 
 function draw() {
-  background(210, 0, 100);
+  background(210, 100, 100);
 
   let elw = width / els;
   let mag = height * 0.3;
